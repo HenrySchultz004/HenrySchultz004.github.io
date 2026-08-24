@@ -12,27 +12,27 @@ about:
       href: https://linkedin.com
     - icon: github
       text: GitHub
-      href: https://github.com
+      href: https://github.com/henryschultz004
     - icon: file-earmark-pdf
       text: Resumé
       href: resume-example.pdf
       target: _blank
     - icon: mailbox
       text: Email
-      href: mailto:YOUR_EMAIL@geneseo.edu
+      href: mailto:hs30@geneseo.edu
 ---
 
 
-Finley Malloc majors in Data Analytics at SUNY Geneseo. When not working on data analytics, Finley enjoys spending time unicycling and playing with her pet iguana.
+Henry Schultz majors in Economics and minors in data analytcis at SUNY Geneseo. When not working on economics, Henry enjoys spending time watching sports, fishing, and being with friends. 
 
 ## Education
 
 State University of New York at Geneseo | Geneseo, NY <br>
-B.S. in Data Analytics | Aug 2023 - May 2027 <br>
-Minor in Economics
+B.A. in Economics | Aug 2023 - May 2027 <br>
+Minor in Data Analytics
 
-## Experience
+<!-- ## Experience -->
 
-Starbucks Analytics | Data Analyst Intern | May 2025 - Aug 2025
+<!-- Starbucks Analytics | Data Analyst Intern | May 2025 - Aug 2025 -->
 
 
